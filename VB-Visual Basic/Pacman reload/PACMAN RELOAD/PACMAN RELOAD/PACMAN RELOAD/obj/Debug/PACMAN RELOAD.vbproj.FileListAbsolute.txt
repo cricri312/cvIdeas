@@ -1,0 +1,72 @@
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe.config
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.pdb
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.xml
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form1.resources
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Resources.resources
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.GenerateResource.Cache
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.exe
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.xml
+C:\Users\viola\Desktop\PACMAN RELOAD\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.pdb
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe.config
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.exe
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.xml
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.pdb
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.pdb
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.xml
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form1.resources
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Resources.resources
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.GenerateResource.Cache
+C:\Users\viola\Desktop\PACMAN RELOAD.1\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form2.resources
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe.config
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.exe
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.xml
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.pdb
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.pdb
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.xml
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form1.resources
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form2.resources
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Resources.resources
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.GenerateResource.Cache
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\Interop.WMPLib.dll
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\Interop.WMPLib.dll
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\viola\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.ResolveComReference.cache
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe.config
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.pdb
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.xml
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\Interop.WMPLib.dll
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbprojAssemblyReference.cache
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\Interop.WMPLib.dll
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.ResolveComReference.cache
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form1.resources
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form2.resources
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Resources.resources
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.GenerateResource.cache
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.CoreCompileInputs.cache
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.exe
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.xml
+C:\Users\t1m4c\Desktop\co mi potrzeba\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.pdb
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe.config
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.exe
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.pdb
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\PACMAN RELOAD.xml
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\Interop.WMPLib.dll
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbprojAssemblyReference.cache
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\Interop.WMPLib.dll
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.ResolveComReference.cache
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form1.resources
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Form2.resources
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN_RELOAD.Resources.resources
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.vbproj.GenerateResource.cache
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.exe
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.xml
+C:\Users\t1m4c\Desktop\PACMAN RELOAD.1.2\PACMAN RELOAD\PACMAN RELOAD\obj\Debug\PACMAN RELOAD.pdb
