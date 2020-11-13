@@ -1,0 +1,146 @@
+﻿Build started 28-May-19 13:23:20.
+     1>Project "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\OpenGl.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\packages\freeglut.2.8.1.15\build\native\../..//build/native/include/ /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\packages\glew.1.9.0.1\build\native\../..//build/native/include/ /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLUT\include /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLM\glm /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\include /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLEW\include /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLFW\include /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D HAS_FREEGLUT /D HAS_GLEW /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(90): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(173): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(209): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(215): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(216): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(222): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(262): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(278): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(366): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(369): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(374): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(375): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(419): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(420): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(427): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(428): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(459): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(459): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(459): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(472): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(472): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(472): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(484): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(484): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(484): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(496): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(496): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(496): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(508): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(508): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(508): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(518): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(518): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(518): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(529): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(529): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(529): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(550): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(550): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(550): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(560): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(560): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(560): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(571): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(571): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(571): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(581): warning C4101: '_z': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(581): warning C4101: '_y': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(581): warning C4101: '_x': unreferenced local variable
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(601): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(602): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(603): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(604): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(613): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(628): warning C4305: 'initializing': truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Debug\OpenGl.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLEW\lib\Release\Win32 /LIBPATH:C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\lib /LIBPATH:C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLUT\lib /LIBPATH:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLFW\lib-vc2015" glu32.lib glfw3.lib opengl32.lib User32.lib Gdi32.lib Shell32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Debug\OpenGl.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Debug\OpenGl.lib" /MACHINE:X86 Debug\main.obj
+         OpenGl.vcxproj -> C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Debug\OpenGl.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\OpenGl.tlog\unsuccessfulbuild".
+         Touching "Debug\OpenGl.tlog\OpenGl.lastbuildstate".
+     1>Done Building Project "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+       "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(90): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(173): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(209): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(215): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(216): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(222): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(262): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(278): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(366): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(369): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(374): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(375): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(419): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(420): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(427): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(428): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(459): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(459): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(459): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(472): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(472): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(472): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(484): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(484): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(484): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(496): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(496): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(496): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(508): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(508): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(508): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(518): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(518): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(518): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(529): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(529): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(529): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(550): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(550): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(550): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(560): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(560): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(560): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(571): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(571): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(571): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(581): warning C4101: '_z': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(581): warning C4101: '_y': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(581): warning C4101: '_x': unreferenced local variable
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(601): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(602): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(603): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(604): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(613): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(628): warning C4305: 'initializing': truncation from 'double' to 'float'
+
+    61 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.01

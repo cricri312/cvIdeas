@@ -1,0 +1,128 @@
+﻿Build started 17-May-19 18:24:58.
+     1>Project "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "x64\Debug\OpenGl.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\packages\freeglut.2.8.1.15\build\native\../..//build/native/include/ /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\packages\glew.1.9.0.1\build\native\../..//build/native/include/ /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLFW\include /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLEW\include /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\include /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLM\glm /IC:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLUT\include /IC:\opencv\build\include /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /D HAS_FREEGLUT /D HAS_GLEW /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc141.pdb" /Gd /TP /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(98): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(271): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(307): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(313): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(314): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(331): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(332): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(338): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(376): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(477): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(480): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(485): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(486): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(530): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(531): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(538): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(856): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(857): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(858): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(876): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(884): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(893): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(908): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(917): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(925): warning C4305: 'initializing': truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\x64\Debug\OpenGl.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLFW\lib-vc2015" /LIBPATH:C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLUT\lib /LIBPATH:C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\lib /LIBPATH:C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLEW\lib\Release\x64 /LIBPATH:C:\opencv\build\x64\vc15\lib glu32.lib libglfw3.a opengl32.lib User32.lib Gdi32.lib Shell32.lib opencv_world346d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\x64\Debug\OpenGl.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\x64\Debug\OpenGl.lib" /MACHINE:X64 x64\Debug\main.obj
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glColor3f referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glEnable referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glLineWidth referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glLoadIdentity referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glMatrixMode referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glPopMatrix referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glPushMatrix referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glRotatef referenced in function "public: void __cdecl myCamera::cam(void)" (?cam@myCamera@@QEAAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glTranslated referenced in function "public: void __cdecl myCamera::cam(void)" (?cam@myCamera@@QEAAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glTranslatef referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol __imp_glVertex3f referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+     1>main.obj : error LNK2019: unresolved external symbol gluPerspective referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+     1>libglfw3.a(init.c.obj) : error LNK2019: unresolved external symbol __ms_vsnprintf referenced in function _glfwInputError
+     1>libglfw3.a(context.c.obj) : error LNK2019: unresolved external symbol sscanf referenced in function _glfwRefreshContextAttribs
+     1>libglfw3.a(win32_joystick.c.obj) : error LNK2019: unresolved external symbol sprintf referenced in function deviceCallback.part.2
+     1>C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\lib\glu32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+     1>C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\lib\opengl32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+     1>C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\x64\Debug\OpenGl.exe : fatal error LNK1120: 19 unresolved externals
+     1>Done Building Project "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+       "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(98): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(271): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(307): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(313): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(314): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(331): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(332): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(338): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(376): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(477): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(480): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(485): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(486): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(530): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(531): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(538): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(539): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(856): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(857): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(858): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(876): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(884): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(893): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(908): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(917): warning C4305: 'initializing': truncation from 'double' to 'float'
+         c:\users\t1m4c\desktop\rekarobota\opengl\opengl\main.cpp(925): warning C4305: 'initializing': truncation from 'double' to 'float'
+
+
+       "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" (Build target) (1) ->
+       (Link target) -> 
+         C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\lib\glu32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+         C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\Dep\GLU\lib\opengl32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+
+
+       "C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\OpenGl\OpenGl.vcxproj" (Build target) (1) ->
+       (Link target) -> 
+         main.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+         main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glColor3f referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+         main.obj : error LNK2019: unresolved external symbol __imp_glEnable referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+         main.obj : error LNK2019: unresolved external symbol __imp_glLineWidth referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glLoadIdentity referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glMatrixMode referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glPopMatrix referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glPushMatrix referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glRotatef referenced in function "public: void __cdecl myCamera::cam(void)" (?cam@myCamera@@QEAAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glTranslated referenced in function "public: void __cdecl myCamera::cam(void)" (?cam@myCamera@@QEAAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glTranslatef referenced in function "void __cdecl drawGrid(void)" (?drawGrid@@YAXXZ)
+         main.obj : error LNK2019: unresolved external symbol __imp_glVertex3f referenced in function "void __cdecl drawCube2(float,float,float,float)" (?drawCube2@@YAXMMMM@Z)
+         main.obj : error LNK2019: unresolved external symbol gluPerspective referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+         libglfw3.a(init.c.obj) : error LNK2019: unresolved external symbol __ms_vsnprintf referenced in function _glfwInputError
+         libglfw3.a(context.c.obj) : error LNK2019: unresolved external symbol sscanf referenced in function _glfwRefreshContextAttribs
+         libglfw3.a(win32_joystick.c.obj) : error LNK2019: unresolved external symbol sprintf referenced in function deviceCallback.part.2
+         C:\Users\t1m4c\Desktop\RekaRobota\OpenGl\x64\Debug\OpenGl.exe : fatal error LNK1120: 19 unresolved externals
+
+    30 Warning(s)
+    20 Error(s)
+
+Time Elapsed 00:00:03.76
