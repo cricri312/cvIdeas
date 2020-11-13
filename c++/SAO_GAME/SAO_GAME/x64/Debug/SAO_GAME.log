@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\t1m4c\desktop\sao_game\sao_game\tworzenie_gry.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Plansza.cpp
+c:\users\t1m4c\desktop\sao_game\sao_game\plansza.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Tworzenie_Gry.cpp
+c:\users\t1m4c\desktop\sao_game\sao_game\tworzenie_gry.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...

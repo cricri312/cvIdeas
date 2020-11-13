@@ -1,0 +1,20 @@
+﻿  main.cpp
+  Plansza.cpp
+  Tworzenie_Gry.cpp
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(48,12): warning C4305: '+=': troncamento da 'double' a 'float'
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(49,10): warning C4244: '+=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(56,27): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(68,25): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(68,21): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(69,25): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(69,22): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(77,27): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(77,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(117,43): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(117,32): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+  Generazione codice in corso...
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\t1m4c\Desktop\SAO_GAME - Copy\SAO_GAME\Tworzenie_Gry.cpp(19): warning C4715: 'Tworzenie_Gry::kolizjaWiem': non tutti i percorsi di controllo restituiscono un valore
+  All 110 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  SAO_GAME.vcxproj -> C:\Users\t1m4c\Desktop\SAO_GAME - Copy\Release\SAO_GAME.exe
