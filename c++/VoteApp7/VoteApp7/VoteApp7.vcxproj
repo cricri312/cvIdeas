@@ -147,7 +147,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Person.cpp" />
+    <ClCompile Include="Persons.cpp" />
     <ClCompile Include="VoteApp7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Persons.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
