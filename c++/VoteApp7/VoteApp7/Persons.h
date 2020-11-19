@@ -3,7 +3,9 @@
 #include<vector>
 #include<memory>
 #include "Person.h"
+#include"nlohmann/json.hpp"
 using namespace std;
+using json = nlohmann::json;
 class Persons
 {
 private:
@@ -11,5 +13,7 @@ private:
 public:
 	int getSizeOfPersons(void);
 	int addPersonToPersons(Person p);
+	json toJson(Person p);
+	
 };
 

@@ -15,3 +15,18 @@ void Person::toString(void)
 	cout << this->surname.c_str();
 	
 }
+
+int Person::getIndex(void)
+{
+	return this->index;
+}
+
+string Person::getName(void)
+{
+	return this->name;
+}
+
+string Person::getSurname(void)
+{
+	return this->surname;
+}
