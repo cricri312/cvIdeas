@@ -19,3 +19,17 @@ json Persons::toJson(Person p)
 	j["surname"] = p.getSurname();
 	return j;
 }
+
+json Persons::toJson()
+{
+	json j;
+	for (int i = 0; i < this->persons.size(); i++)
+	{
+		j[i] = json{ {"name",this->persons[i]->getName()},{"surnme",this->persons[i]->getSurname()},{"index",this->persons[i]->getIndex()} };
+	}
+	
+	
+	return j;
+}
+
+

@@ -8,12 +8,15 @@ using namespace std;
 using json = nlohmann::json;
 class Persons
 {
-private:
-	vector < unique_ptr<Person>> persons;
 public:
 	int getSizeOfPersons(void);
 	int addPersonToPersons(Person p);
 	json toJson(Person p);
+	json toJson();
+	
+private:
+	vector < unique_ptr<Person>> persons;
+
 	
 };
 

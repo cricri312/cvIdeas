@@ -9,13 +9,11 @@ int main()
 	fstream plik;
 	plik.open("filename.txt");
 	Person cris(1, "d34", "334");
+	Person cris1(1, "d3222224", "22222334");
 	Persons block;
 	block.addPersonToPersons(cris);
-	plik << block.toJson(cris);
-	
-	plik.close();
-	int size=block.getSizeOfPersons();
+	block.addPersonToPersons(cris1);
+	cout << block.toJson() << endl;
 
-	cout << block.toJson(cris);
   return 0;
 }
