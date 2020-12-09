@@ -120,13 +120,15 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\SFML-2.5.1\include;C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\SFML-2.5.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-audio.lib;sfml-network.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -148,11 +150,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PeerReceiver.cpp" />
+    <ClCompile Include="PeerSender.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="Persons.cpp" />
     <ClCompile Include="VoteApp7.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PeerReceiver.h" />
+    <ClInclude Include="PeerSender.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="Persons.h" />
   </ItemGroup>

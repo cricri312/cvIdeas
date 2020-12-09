@@ -24,12 +24,24 @@
     <ClCompile Include="Persons.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
+    <ClCompile Include="PeerReceiver.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="PeerSender.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
     <ClInclude Include="Persons.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="PeerReceiver.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="PeerSender.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>
