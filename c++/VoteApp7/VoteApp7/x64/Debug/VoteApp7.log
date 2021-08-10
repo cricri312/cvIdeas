@@ -1,0 +1,10 @@
+﻿  PeerReceiver.cpp
+C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\VoteApp7\PeerReceiver.h(2,10): fatal error C1083: Non è possibile aprire il file inclusione: 'SFML/Network.hpp': No such file or directory
+  PeerSender.cpp
+C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\VoteApp7\PeerSender.h(2,10): fatal error C1083: Non è possibile aprire il file inclusione: 'SFML/Network.hpp': No such file or directory
+  Person.cpp
+  Persons.cpp
+C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\VoteApp7\Persons.h(6,9): fatal error C1083: Non è possibile aprire il file inclusione: 'nlohmann/json.hpp': No such file or directory
+  VoteApp7.cpp
+C:\Users\t1m4c\Desktop\cvIdeas\c++\VoteApp7\VoteApp7\Persons.h(6,9): fatal error C1083: Non è possibile aprire il file inclusione: 'nlohmann/json.hpp': No such file or directory
+  Generazione del codice in corso...
